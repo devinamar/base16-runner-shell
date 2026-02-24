@@ -1,0 +1,19 @@
+scheme: "Runner Shell"
+author: "Devin Martin"
+description: "Marathon-inspired neon accents on olive/chartreuse base"
+base00: "0c0c08"  # Olive Black - background
+base01: "1a1a12"  # Dark Olive - lighter bg
+base02: "2a2a1e"  # Olive Gray - selection
+base03: "4e4e3a"  # Muted Olive - comments
+base04: "7a7a5c"  # Khaki Dim - dark fg
+base05: "dee86f"  # Chartreuse - primary text
+base06: "e8f0a0"  # Pale Lime - emphasis
+base07: "f4f8d8"  # Cream White - headings
+base08: "ff1a1a"  # Signal Red - errors/variables
+base09: "ff5040"  # Hot Coral - constants/integers
+base0A: "ffb800"  # Hard Gold - classes/types
+base0B: "c0f030"  # Marathon Neon - strings
+base0C: "00ffee"  # Neon Cyan - regex/escape
+base0D: "4499ff"  # Cobalt Bright - functions
+base0E: "e040c0"  # Hot Magenta - keywords
+base0F: "6e5e28"  # Olive Gold - special/deprecated
