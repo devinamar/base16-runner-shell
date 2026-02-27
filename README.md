@@ -15,11 +15,11 @@ A [base16](https://github.com/tinted-theming/home) color scheme featuring Marath
 | 06   | `#e8f0a0` | Pale Lime (emphasis)    |
 | 07   | `#f4f8d8` | Cream White (headings)  |
 | 08   | `#ff1a1a` | Signal Red (errors)     |
-| 09   | `#ff5040` | Hot Coral (constants)   |
-| 0A   | `#ffb800` | Hard Gold (classes)     |
-| 0B   | `#c0f030` | Marathon Neon (strings) |
-| 0C   | `#00ffee` | Neon Cyan (regex)       |
-| 0D   | `#4499ff` | Cobalt Bright (funcs)   |
+| 09   | `#4499ff` | Cobalt Bright (constants) |
+| 0A   | `#ffb800` | Hard Gold (classes)       |
+| 0B   | `#c0f030` | Marathon Neon (strings)   |
+| 0C   | `#00ffee` | Neon Cyan (regex)         |
+| 0D   | `#ff5040` | Hot Coral (funcs)         |
 | 0E   | `#e040c0` | Hot Magenta (keywords)  |
 | 0F   | `#6e5e28` | Olive Gold (special)    |
 
