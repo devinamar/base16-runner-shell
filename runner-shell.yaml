@@ -10,10 +10,10 @@ base05: "dee86f"  # Chartreuse - primary text
 base06: "e8f0a0"  # Pale Lime - emphasis
 base07: "f4f8d8"  # Cream White - headings
 base08: "ff1a1a"  # Signal Red - errors/variables
-base09: "ff5040"  # Hot Coral - constants/integers
+base09: "4499ff"  # Cobalt Bright - constants/integers
 base0A: "ffb800"  # Hard Gold - classes/types
 base0B: "c0f030"  # Marathon Neon - strings
 base0C: "00ffee"  # Neon Cyan - regex/escape
-base0D: "4499ff"  # Cobalt Bright - functions
+base0D: "ff5040"  # Hot Coral - functions
 base0E: "e040c0"  # Hot Magenta - keywords
 base0F: "6e5e28"  # Olive Gold - special/deprecated
