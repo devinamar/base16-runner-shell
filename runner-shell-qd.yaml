@@ -1,0 +1,19 @@
+scheme: "Runner Shell QD"
+author: "Devin Martin"
+description: "Runner Shell tuned for QD-OLED subpixel fringing"
+base00: "0c0c08"  # Olive Black - background
+base01: "1a1a12"  # Dark Olive - lighter bg
+base02: "2a2a1e"  # Olive Gray - selection
+base03: "4e4e3a"  # Muted Olive - comments
+base04: "7a7a5c"  # Khaki Dim - dark fg
+base05: "aad748"  # Lime - primary text
+base06: "c5da7b"  # Pale Lime - emphasis
+base07: "deddb6"  # Bone - headings
+base08: "ff1a1a"  # Signal Red - errors/variables
+base09: "4670f6"  # Cobalt - constants/integers
+base0A: "ffb800"  # Hard Gold - classes/types
+base0B: "7bef0c"  # Marathon Neon - strings
+base0C: "12ebc3"  # Neon Cyan - regex/escape
+base0D: "ff5040"  # Hot Coral - functions
+base0E: "e50cbb"  # Hot Magenta - keywords
+base0F: "6e5e28"  # Olive Gold - special/deprecated
